@@ -1,0 +1,15 @@
+;;; VLisp project file [V2.0] tape saved to:[F:/project/AutoCAD/spf3] at:[11/15/16] 
+(vlisp-project-list
+  :name
+  tape
+  :own-list
+  ("tape")
+  :fas-directory
+  nil
+  :tmp-directory
+  nil
+  :project-keys
+  (:build (:optimize :localize) :merged t :safe-mode t :msglevel 1)
+  :context-id
+  :autolisp)
+;;; EOF
